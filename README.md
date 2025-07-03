@@ -94,4 +94,4 @@ These labs were completed using **AWS Academy** via the **ALX LMS**, so access t
 ### ✨ Summary
 These labs reflect my technical growth in AWS fundamentals — from IAM security to infrastructure deployment and storage recovery. I’m excited to bring these skills into real-world cloud projects and junior cloud roles.
 
-> 💼 **Looking to connect or collaborate?** View more at [your-linkedin-or-personal-site-here] or contact me for project opportunities.
+> 💼 **Looking to connect or collaborate?** Contact me via GitHub https://github.com/jess00-alt 😀
