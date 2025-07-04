@@ -38,7 +38,7 @@ Set up a secure and scalable network using a VPC with public/private subnets and
 
 ### 🖇️ Evidence
 Submission Report ✅  
-*Instance `Web Server 1` launched successfully – website accessible at `http://52.87.207.198`*
+*Instance `Web Server 1` launched successfully – website was accessible via public IP (verified in submission report)*
 
 ### 🛠️ Skills Used
 `VPC networking` • `Subnet CIDR planning` • `Route tables` • `Security groups` • `EC2 hosting`
