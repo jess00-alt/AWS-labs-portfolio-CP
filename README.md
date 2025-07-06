@@ -89,7 +89,7 @@ Submission Report ✅
 ---
 
 ### 📌 Note:
-These labs were completed using **AWS Academy** via the **ALX LMS**, so access to the AWS Console is restricted after lab completion. All evidence is based on detailed auto-generated submission reports that validated each task.
+All evidence is based on detailed auto-generated submission reports that validated each task.
 
 ### ✨ Summary
 These labs reflect my technical growth in AWS fundamentals — from IAM security to infrastructure deployment and storage recovery. I’m excited to bring these skills into real-world cloud projects and junior cloud roles.
