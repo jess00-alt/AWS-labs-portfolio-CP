@@ -87,7 +87,61 @@ Submission Report ✅
 `EBS volume operations` • `Snapshot creation` • `Linux mounting` • `Disaster recovery` • `Storage lifecycle`
 
 ---
+🗄️ Lab 5: Database Server Deployment
 
+Date: July 10, 2025
+Region: us-east-1
+
+🎯 Objective
+
+Deploy and configure a secure, scalable database server in AWS to support application data storage and retrieval.
+
+✅ Key Tasks
+
+Launched Amazon RDS instance with MySQL engine in a private subnet.
+
+Configured security groups to allow inbound access from application server only.
+
+Set up automated backups, enabled Multi-AZ failover, and configured performance monitoring.
+
+🖇️ Evidence
+
+Submission Report ✅
+Confirmed RDS launch, secure connectivity setup, backup automation, and Multi-AZ redundancy.
+
+🛠️ Skills Used
+
+Amazon RDS • Database security • VPC networking • Automated backups • Multi-AZ deployment
+
+⚖️ Lab 6: Scaling & Load Balancing Architecture
+
+Date: July 15, 2025
+Region: us-east-1
+
+🎯 Objective
+
+Build a fault-tolerant, scalable application infrastructure with Elastic Load Balancing (ELB) and Auto Scaling.
+
+✅ Key Tasks
+
+Deployed multiple EC2 web servers across availability zones.
+
+Configured Application Load Balancer to evenly distribute incoming traffic.
+
+Created an Auto Scaling group with scaling policies based on CPU utilization thresholds.
+
+Simulated instance failure to verify automatic recovery and traffic rerouting.
+
+🖇️ Evidence
+
+Submission Report ✅
+All scaling, load balancing, and failover tasks validated successfully.
+
+🛠️ Skills Used
+
+Elastic Load Balancing • Auto Scaling • High availability • Fault tolerance • EC2 scaling policies
+
+--
 ### 📌 Note:
 All evidence is based on detailed auto-generated submission reports that validated each task.
 
